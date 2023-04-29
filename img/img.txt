@@ -1,0 +1,31 @@
+slider1
+"https://www.morenoconsultorios.com.ar/wp-content/uploads/2021/04/slider1.jpg"
+
+slider2
+"https://www.morenoconsultorios.com.ar/wp-content/uploads/2016/10/blog-5.jpg"
+
+slider3
+https://centromedicoabc.com/wp-content/webp-express/webp-images/uploads/2023/01/traumatologia-ortopedia.jpg.webp
+
+slide4 PEDIATRIA
+https://traumatologopediatraquito.com/wp-content/uploads/2019/02/displasia-de-cadera-dr-francisco0-vallejo-traumatologo-pediatra-min.jpg
+
+Dr. 1
+https://media.istockphoto.com/id/1371009338/es/foto/retrato-de-un-joven-dentista-que-trabaja-en-su-consulta.jpg?s=1024x1024&w=is&k=20&c=htG8d6hxXo_q-6V5-Htg4SA2D723aDFUICEEoWdI7Hc=
+
+Dr. 2  Dra
+
+https://media.istockphoto.com/id/1425798958/es/foto/foto-de-una-doctora-confiada-en-el-hospital-mirando-a-la-c%C3%A1mara-con-una-sonrisa.jpg?s=1024x1024&w=is&k=20&c=6gDRD11MOZTILvHrk0GI7ahY8pd6504KZPNPj86nGyM=
+
+Dr.3
+https://media.istockphoto.com/id/1364917551/es/foto/apuesto-m%C3%A9dico-sonriendo-y-de-pie-sobre-fondo-blanco.jpg?s=1024x1024&w=is&k=20&c=e5EbHox_4lh-d1Gjup8gzQ2Scmk-xZCMxivXOYmL_xw=
+
+Dr 4
+https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80
+
+Mano RX
+https://images.unsplash.com/photo-1564725075388-cc8338732289?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=971&q=80
+
+Obra Social
+http://www.cobituc.org.ar/wp-content/uploads/2015/09/obras_sociales_disponibles-1.jpg
+
