@@ -48,6 +48,18 @@
    transition: all 0.7s;
 }
 
+#horario{
+   font-size: 13px;
+   cursor: pointer;
+   margin-left: 20px;
+   display: flex;
+   align-items: center;
+}
+
+#horario:hover{
+   transform: none;
+}
+
 
 
 
@@ -125,7 +137,7 @@ header.abajo .btn button{
     list-style: none;
     
     margin-top: 20px;
-    
+   
  }
 
  .header .nav-list li{
